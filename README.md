@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilhvn
 - 👀 I’m interested in coding and software engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me - ilhanraage@gmail.com
 
